@@ -10,7 +10,7 @@ Bonus not included. Subject attached. </br>
 Basic implementation of printf. Straightforward code and as clean as possible.</br>
 
 ## 🚀 Export version
-This repo is an exportable version my printf project.
+This repo is an exportable version of my printf project.
 The original project is stored in the .tar archive.
 
 Change log:
