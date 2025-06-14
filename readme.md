@@ -1,6 +1,9 @@
 <h1 align="center">
 	Printf
 </h1>
+<p align="center">
+	Did this project help you? Give it a 🌟!
+</p>
 
 ## 🖨️ General information
 Bonus not included. Subject attached. </br>
